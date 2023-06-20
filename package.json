@@ -2,7 +2,12 @@
   "name": "comment-explorer",
   "displayName": "comment-explorer",
   "description": "Jump around within a file based on comments that mark important sections",
+  "repository": {
+    "url": "https://github.com/farant/comment-explorer-vscode",
+    "type": "github"
+  },
   "version": "1.0.0",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.79.0"
   },
