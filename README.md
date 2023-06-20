@@ -6,7 +6,7 @@ Finding things in big files is a chore.
 
 No longer!
 
-![Alt text](image.png)
+![Alt text](screenshot.png)
 
 ## Features
 
